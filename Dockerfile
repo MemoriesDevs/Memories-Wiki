@@ -28,4 +28,6 @@ RUN python3 -m mkdocs build
 
 EXPOSE 8000
 
-CMD ["python3", "-m", "mkdocs", " serve"]
+ENTRYPOINT [ "python3" ]
+
+CMD ["-m", "mkdocs", "serve", "--dev-addr=0.0.0.0:8000"]

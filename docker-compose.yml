@@ -2,8 +2,9 @@ services:
   mkdocs:
     build: .
     ports:
-      - "8000:8000"
+      - 8000:8000
     volumes:
       - type: bind
         source: ./docs
         target: /app/docs
+    
