@@ -1,0 +1,9 @@
+site_name: Memories
+repo_url: https://github.com/RhuanMr/Memories-Wiki/
+
+theme:
+  name: material
+  features: navigation.tabs
+
+nav:
+  - Home: index.md
