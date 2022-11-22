@@ -15,4 +15,5 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         Backlog_do_produto.md # The Backlog page.
+        Elicitação.md
         ...       # Other markdown pages, images and other files.
