@@ -25,7 +25,7 @@ wont do: São acordados os requisitos de menos importância do projeto, com meno
 ### 1.2. Tabela de requisitos
 
 | ID  | Requisito | Rastro | MoSCoW |
-| --- | --------- | ------ | ------ | ---- | ---------------- |
+| --- | --------- | ------ | ------ |
 | <span id="US01">US01</span> | Eu, usuário, desejo me cadastrar no aplicativo, para poder criar novas memórias. | MUST |
 | <span id="US02">US02</span> | Eu, usuário, desejo logar no aplicativo, para poder ter acesso ao aplicativo. |MUST |
 | <span id="US03">US03</span> | Eu, usuário, desejo cadastrar uma nova memória, para poder guardar minhas informações. | MUST |
