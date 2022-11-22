@@ -8,3 +8,4 @@ theme:
 nav:
   - Home: index.md
   - Backlog: Backlog_do_produto.md
+  - Elicitação: Elicitação.md
